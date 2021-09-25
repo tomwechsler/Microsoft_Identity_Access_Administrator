@@ -1,2 +1,2 @@
-# Microsoft Identity Access Administrator (SC-300)!
-This repo is about Microsoft Cloud identity and access.
+# Microsoft Identity Access Administrator!
+This repo is about Microsoft Cloud identity and access (SC-300).
